@@ -1,5 +1,6 @@
 
-# Integrated-Retail-Analytics-for-Store-Optimization-and-Demand-Forecasting
+#  Integrated Retail Analytics for Store Optimization and Demand Forecasting
+
 Retail Analytics for Store Optimization and Demand Forecasting
 
 Project Objective![image](https://github.com/VargheseTito/Integrated-Retail-Analytics-for-Store-Optimization-and-Demand-Forecasting/assets/110298267/545ff2a9-a0a4-460f-9506-9d9773bd0a42)
